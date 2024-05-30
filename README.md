@@ -1,2 +1,2 @@
 # Turtlebot2i_URDF
-Repository was created to save urdf of turtle.
+This repository contains **urdf** with the Turtlebot2i hokuyo sensor that will be used to do mapping.
